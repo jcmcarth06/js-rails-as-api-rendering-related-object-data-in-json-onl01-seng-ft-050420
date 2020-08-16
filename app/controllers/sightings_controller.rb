@@ -14,5 +14,4 @@ class SightingsController < ApplicationController
     end
   end
 
-
 end
